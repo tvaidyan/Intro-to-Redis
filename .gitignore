@@ -268,3 +268,4 @@ __pycache__/
 # Override ignore of binaries for Tesseract
 !TesseractBinaries/**
 !tessdata/**
+.vs/redis-explorations/xs/UserPrefs.xml

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{844E3982-BC8E-4C5D-AE63-7BF02248D973}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{844E3982-BC8E-4C5D-AE63-7BF02248D973}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -6,15 +6,21 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.redis-explorations PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="Program.cs" Line="12" Column="36" />
+      <File FileName="Program.cs" Line="23" Column="27" />
+      <File FileName="Controllers/HelloWorldController.cs" Line="29" Column="58" />
+      <File FileName="Helpers/CacheHelper.cs" Line="29" Column="17" />
+      <File FileName=".gitignore" Line="270" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="redis-explorations" expanded="True">
-            <Node name="redis-explorations" expanded="True" selected="True" />
+          <Node name="redis-explorations" expanded="True" selected="True">
+            <Node name="redis-explorations" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
