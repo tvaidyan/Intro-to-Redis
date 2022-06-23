@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LhgDWSWQkSKuMzA5tke9nF7JEi0zeaXS60CE5lMcpYw=",
+  "Source": "redis-explorations",
+  "BasePath": "_content/redis-explorations",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
